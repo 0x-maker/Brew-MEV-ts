@@ -227,8 +227,6 @@ We're building on Solana because:
 - 🌱 Growing ecosystem of projects and developers
 - 🔧 Robust developer tools and documentation
 
-##  Migration to Typescript
--coming soonish
 
 ## 📜 License
 
