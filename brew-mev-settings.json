@@ -1,0 +1,32 @@
+{
+    "marketCap": 50000,
+    "slTp": {
+        "stopLoss": 5,
+        "takeProfit": 25
+    },
+    "autoBuy": {
+        "enabled": false,
+        "mode": null,
+        "minAmount": 0,
+        "maxAmount": 0
+    },
+    "selectedDex": "Pump.FUN",
+    "additionalDexes": {
+        "Raydium": {
+            "enabled": false,
+            "apiUrl": "https://api-v3.raydium.io/",
+            "feeStructure": {
+                "takerFee": 0.0025,
+                "makerFee": 0.0015
+            }
+        },
+        "Jupiter": {
+            "enabled": false,
+            "apiUrl": "https://api.jupiter.ag/",
+            "feeStructure": {
+                "takerFee": 0.003,
+                "makerFee": 0.002
+            }
+        }
+    }
+}
