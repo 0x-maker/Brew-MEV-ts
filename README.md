@@ -8,7 +8,7 @@
 
 **Brew-MEV** is an open-source MEV (Maximal Extractable Value) trading bot built for the Solana blockchain. It provides both a CLI interface and a modern web dashboard to monitor and control your trading strategies.
 
-![MEVSS Image](https://storage.verity.dev/storage/mevss.png)
+![MEVSS Image](https://cdn.verity.dev/storage/mevss.png)
 
 
 ## 📋 Table of Contents
