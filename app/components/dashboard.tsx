@@ -184,7 +184,7 @@ export default function Dashboard() {
       <header className="border-b bg-background">
         <div className="container flex h-14 items-center px-4">
           <div className="flex-1 flex items-center gap-2">
-            <Image src="https://storage.verity.dev/storage/brew-mev.png" alt="Brew MEV" width={32} height={32} />
+            <Image src="https://cdn.verity.dev/storage/brew-mev.png" alt="Brew MEV" width={32} height={32} />
             <h1 className="font-bold">Brew MEV</h1>
           </div>
           
