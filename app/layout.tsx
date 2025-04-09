@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'Brew MEV',
   icons: {
-    icon: 'https://storage.verity.dev/storage/brew-mev.png',
+    icon: 'https://cdn.verity.dev/storage/brew-mev.png',
   },
   description: 'Dashboard for Brew MEV Bot',
 }
